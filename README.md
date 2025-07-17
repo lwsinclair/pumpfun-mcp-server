@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/noahgsolomon-pumpfun-mcp-server-badge.png)](https://mseep.ai/app/noahgsolomon-pumpfun-mcp-server)
+
 # pumpfun-mcp
 
 A Model Context Protocol (MCP) server for interacting with the [Pump.fun](https://pump.fun) platform on Solana. This server enables AI assistants to create, buy, and sell tokens on the Pump.fun platform.
